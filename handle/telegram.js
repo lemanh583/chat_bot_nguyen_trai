@@ -69,10 +69,13 @@ class TelegramBot {
           };
         });
 
-        const m = await ctx.reply(`@${ctx.update.message?.from?.username} \n \n ${replyText.content}`, {
+        const mentionText = `[${ctx.update?.message?.from?.first_name + ' ' + ctx.update?.message?.from?.last_name}](tg://user?id=${ctx.update?.message?.from?.id})`;
+
+        const m = await ctx.reply(`${mentionText} \n \n ${replyText.content}`, {
           reply_markup: {
             inline_keyboard: [buttons],
           },
+          parse_mode: 'Markdown'
         });
 
         messageSchema.create({
@@ -110,10 +113,12 @@ class TelegramBot {
         };
       });
 
-      const m = await ctx.reply(`@${data?.from?.username} \n \n ${replyText.content}`, {
+      const mentionText = `[${data.from?.first_name + ' ' + data.from?.last_name}](tg://user?id=${data.from?.id})`;
+      const m = await ctx.reply(`${mentionText} \n \n ${replyText.content}`, {
         reply_markup: {
           inline_keyboard: [buttons],
         },
+        parse_mode: 'Markdown',
       });
 
       messageSchema.create({
