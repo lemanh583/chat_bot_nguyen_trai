@@ -19,10 +19,10 @@ async function connectDB() {
 const PORT = 5000;
 app.listen(PORT, async () => {
   try {
-    let conn = await connectDB();
-    if (!conn) throw new Error("Connection failed");
+    // let conn = await connectDB();
+    // if (!conn) throw new Error("Connection failed");
 
-    app.post('/api/create', QuestionHandle.create)
+    // app.post('/api/create', QuestionHandle.create)
 
     const bot = new TelegramBot();
     bot.listen();

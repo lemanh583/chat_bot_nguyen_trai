@@ -1,0 +1,337 @@
+[{
+  "_id": {
+    "$oid": "6606dff94797b55098aa588f"
+  },
+  "command": "/start",
+  "content": "CHATBOT VỀ NGUYỄN TRÃI\n\n1. CUỘC ĐỜI NGUYỄN TRÃI\n2. SỰ NGHIỆP VĂN HỌC\n3. VỊ TRÍ VÀ TẦM ẢNH HƯỞNG\n4. ĐẠI CÁO BÌNH NGÔ - NGUYỄN TRÃI\n5. BẢO KÍNH CẢNH GIỚI 43( CẢNH NGÀY HÈ)\n6. DỤC THUÝ SƠN",
+  "created_time": {
+    "$numberLong": "1711726585552"
+  },
+  "updated_time": {
+    "$numberLong": "1711726585552"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606e20a49a503bf4eceb773"
+  },
+  "option": "1",
+  "content": "-\tÔng sinh 1380- 1442, hiệu là Ức Trai. Quê ở Chi Ngại- Phượng Sơn- Lạng Giang ( nay là Chí Linh- Hải Dương), sau đó gia đình dời đến Định Khê- Thường Tín- Hà Nội\n-\tÔng vốn xuất thân trong một gia đình danh giá, cha Nguyễn Trãi là Nguyễn Phi Khanh, từng đỗ Thái học sinh, mẹ ông là Trần Thị Thái- con quan Tư đồ Trần Nguyên Đán. Cả hai bên họ nội ngoại đều có truyền thống khoa cử, văn học, yêu nước. Ngay từ nhỏ Nguyễn Trãi được hưởng một nền giáo dục tốt đẹp, trở thành căn cơ cho sự nghiệp của ông sau này\n-\tLên sáu tuổi, mất mẹ, lên mười, ông ngoại qua đời, Nguyễn Trãi về ở Nhị Khê nơi cha dạy học. Ông gần gũi nông thôn từ đó. Năm hai mươi tuổi, 1400, ông đỗ Thái học sinh và hai cha con cùng làm quan cho nhà Hồ. Năm 1407, giặc Minh sang cướp nước ta, Nguyễn Phi Khanh bị bắt đem về Trung Quốc cùng với cha con Hồ Quí Ly và các triều thần khác. Nguyễn Trãi và người em trai đi theo chăm sóc. Nghe lời cha khuyên, ông trở về, nhưng lại bị giặc Minh bắt giữ ở Đông Quan. Trốn thoát khỏi tay giặc, ông náu mình trong nhân dân, tìm đường cứu nước. Đây là thời gian ông đi sâu vào nông thôn, hiểu được đời sống nhân dân, thấm thía sức mạnh của dân, và nhờ đó, ông nhận ra chân lí: muốn cứu nước phải dựa vào dân. Ông tìm theo Lê Lợi, dâng Bình Ngô sách, tham gia khởi nghĩa Lam Sơn. Và Nguyễn Trãi đã sống, chiến đấu cùng nhân dân. Ông có đóng góp lớn vào phương kế đuổi giặc. Ông là vị quân sư xuất sắc giúp Lê Lợi chiến lược, chiến thuật trong kháng chiến chống quân Minh xâm lược. Đó là:\n    'Đem đại nghĩa để thắng hung tàn,\n    Lấy chí nhân để thay cường bạo.'\n- Đầu năm 1428, quét sạch quân thù, ông hăm hở bắt tay vào thực hiện hoài bão xây dựng đất nước thái bình thịnh trị, vua hoà dân mục, thì bỗng dưng bị chặn lại: ông bị nghi oan và bị bắt giam. Sau đó, ông được tha nhưng không được tin dùng nữa. Mười năm (1429-1439) Nguyễn Trãi chỉ được giao chức 'nhàn quan', không có thực quyền. Ông buồn, xin về Côn Sơn (nay thuộc Chí Linh, Hải Dương). Mấy tháng sau, Lê Thái Tông lại vời ông ra làm việc nước. Ông đang hăng hái giúp vua thì xảy ra thảm hoạ lớn nhất trong lịch sử Việt Nam: ngày 01 tháng 9 năm 1442, sau khi nhà vua đi duyệt võ, đã vào Côn Sơn thăm Nguyễn Trãi. Khi vua dời Côn Sơn, về đến Trại Vải (Lệ Chi Viên, Bắc Ninh) bị chết đột ngột. Lúc chết có Nguyễn Thị Lộ, người thiếp của Nguyễn Trãi, lúc ấy phụ trách dạy dỗ các cung nữ (chức Lễ nghi học sĩ) hầu bên cạnh. Bọn triều thần bấy lâu nay muốn hãm hại Nguyễn Trãi, nhân cơ hội này liền vu cho ông cùng Nguyễn Thị Lộ mưu giết vua, khiến ông phải nhận án  tru di tam tộc (bị giết cả ba họ)\nNỗi oan tầy trời ấy, hơn hai mươi năm sau, 1464, Lê Thánh Tông mới giải toả và ca ngợi ông bằng câu thơ nổi tiếng:\n'Ức Trai tâm thượng quang khuê tảo'\n(Lòng Ức Trai toả sáng như sao khuê)\n",
+  "parent_id": {
+    "$oid": "6606dff94797b55098aa588f"
+  },
+  "created_time": {
+    "$numberLong": "1711727114338"
+  },
+  "updated_time": {
+    "$numberLong": "1711727114338"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606e2d057a2c8af9ad4b293"
+  },
+  "option": "2",
+  "content": "Sự nghiệp văn học\n\n1. Nội dung thơ văn\n2. Đặc điểm nghệ thuật\n3. Các tác phẩm chính",
+  "parent_id": {
+    "$oid": "6606dff94797b55098aa588f"
+  },
+  "created_time": {
+    "$numberLong": "1711727312217"
+  },
+  "updated_time": {
+    "$numberLong": "1711727312217"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606e37257a2c8af9ad4b295"
+  },
+  "option": "3",
+  "content": "Vị trí và tầm ảnh hưởng\n\n- Nguyễn Trãi không chỉ là người anh hùng dân tộc mà còn là một nhà văn hóa khai sáng, một nhà văn, nhà thơ. Những đóng góp của ông đã tạo ra bước ngoặt mới trong lịch sử phát triển của văn hóa, văn học Việt Nam.\n+ Nguyễn Trãi có công rất lớn trong việc giúp Lê Lợi xây dựng một đường lối chính trị và quân sự đúng đắn ngay từ khi tham gia khởi nghĩa Lam Sơn.\n+ Những đóng góp về văn học của Nguyễn Trãi là hết sức to lớn, có giá trị mở đầu cho nhiều truyền thống quý báu của văn học dân tộc.\n+ Cuộc đời và nhân cách Nguyễn Trãi trở thành đề tài cảm hứng cho nhiều sáng tác nghệ thuật có giá trị: điêu khắc, âm nhạc,văn học nghệ thuật….\n",
+  "parent_id": {
+    "$oid": "6606dff94797b55098aa588f"
+  },
+  "created_time": {
+    "$numberLong": "1711727474573"
+  },
+  "updated_time": {
+    "$numberLong": "1711727474573"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606e4e457a2c8af9ad4b297"
+  },
+  "option": "4",
+  "content": "ĐẠI CÁO BÌNH NGÔ- NGUYỄN TRÃI\n\n- Hoàn cảnh ra đời:  \nĐầu năm 1482, sau khi đã dẹp xong giặc Minh, Lê Lợi lên ngôi vua giao cho Nguyễn Trãi viết bài cáo để tuyên bố kết thúc chiến tranh, lập lại hòa bình cho đất nước.\n\n1. Tiền đề lý luận\n2. Soi chiếu lý luận vào thực tiễn\n3. Diễn biến cuộc khởi nghĩa Lam Sơn\n4. Niềm tin, ý chí.\n5. Nghệ thuật",
+  "parent_id": {
+    "$oid": "6606dff94797b55098aa588f"
+  },
+  "created_time": {
+    "$numberLong": "1711727844682"
+  },
+  "updated_time": {
+    "$numberLong": "1711727844682"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606e5c157a2c8af9ad4b2ad"
+  },
+  "option": "5",
+  "content": "BẢO KÍNH CẢNH GIỚI 43( CẢNH NGÀY HÈ)\n\n1. 6 câu thơ đầu: Bức tranh thiên nhiên và cuộc sống\n2. 2 câu thơ còn lại: Vẻ đẹp tâm hồn của nhà thơ\n",
+  "parent_id": {
+    "$oid": "6606dff94797b55098aa588f"
+  },
+  "created_time": {
+    "$numberLong": "1711728065997"
+  },
+  "updated_time": {
+    "$numberLong": "1711728065997"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606e63257a2c8af9ad4b2af"
+  },
+  "option": "6",
+  "content": "DỤC THUÝ SƠN\n\n1. Khung cảnh núi Dục Thuý (6 câu thơ đầu)\n2. Cảm hoài của Nguyễn Trãi (2 câu thơ sau)\n3. Đặc sắc nội dung và nghệ thuật",
+  "parent_id": {
+    "$oid": "6606dff94797b55098aa588f"
+  },
+  "created_time": {
+    "$numberLong": "1711728178699"
+  },
+  "updated_time": {
+    "$numberLong": "1711728178699"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606e80957a2c8af9ad4b2d5"
+  },
+  "option": "1",
+  "content": "NỘI DUNG THƠ VĂN \n\n- Thơ văn Nguyễn Trãi phong phú, đa dạng về đề tài, cảm hứng; giàu giá trị tư tưởng và đậm tính trữ tình. Nổi bật trong các tác phẩm của ông là tư tưởng nhân nghĩa, tình yêu thiên nhiên và những ưu tư về thế sự.\n+ Cảm hứng thế sự: Nỗi buồn thời thế, nỗi thất vọng trước thực tại nhiều bất công, ngang trái.  Niềm tự hào, tự tin vào phẩm cách thanh cao, khí tiết cứng cỏi, bản lĩnh kiên cường . Lí tưởng sống cao cả, khát vọng xả thân vì chính nghĩa, vì dân, vì nước\n+ Tình yêu thiên nhiên: Hiện lên rất đa dạng, sinh động, có sức sống riêng. Đứng trước một cảnh vật, từ những cảnh tượng hùng vĩ như Vân Đồn, cửa bể Bạch Đằng, cửa bể Thần Phù, đến những cảnh bình dị như một ánh trăng, một buổi chợ, một bông hoa nở, một nõn chuối, một luống mồng tơi, hay một tiếng chim kêu,... tất cả đều gợi lên trong tâm tưởng Ức Trai những tứ thơ mênh mông, lai láng, những khoảnh khắc say sưa, nồng nhiệt.\n+ Tư tưởng nhân nghĩa: Trước hết được gắn chặt với tư tưởng vì dân và an dân: “Việc nhân nghĩa cốt ở an dân”; nhân nghĩa chính là yêu nước, thương dân, là đánh giặc cứu nước, cứu dân.Tư tưởng trọng dân, biết ơn dân. Tư tưởng nhân nghĩa của Nguyễn Trãi còn biểu hiện ở lòng thương người, ở sự khoan dung độ lượng, thậm chí đối với cả kẻ thù. Tư tưởng nhân nghĩa của Nguyễn Trãi còn là ý tưởng xây dựng một đất nước thái bình, tư tưởng cầu người hiền tài giúp nước, giúp dân\n",
+  "parent_id": {
+    "$oid": "6606e2d057a2c8af9ad4b293"
+  },
+  "created_time": {
+    "$numberLong": "1711728649574"
+  },
+  "updated_time": {
+    "$numberLong": "1711728649574"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606e86c57a2c8af9ad4b2df"
+  },
+  "option": "2",
+  "content": "ĐẶC ĐIỂM NGHỆ THUẬT \n\n- Thơ văn Nguyễn Trãi kết tinh nhiều thành tựu nghệ thuật đặc sắc; góp phần quan trọng vào sự phát triển, hoàn thiện một số thể loại văn học trung đại Việt Nam: văn chính luận, thơ chữ Hán và thơ chữ Nôm.\n+ Văn chính luận Nguyễn Trãi, đặc biệt là những thư từ bút chiến, văn kiện ngoại giao với nhà Minh. Tác phẩm luôn đạt đến trình độ mẫu mực. \n+ Thơ chữ Hán của Nguyễn Trãi hầu hết được sáng tác bằng các thể thơ Đường luật, đạt tới sự nhuần nhuyễn, điêu luyện; ngôn ngữ cô đúc, nghệ thuật tả cảnh, tả tình tinh tế, tài hoa.\n+ Thơ chữ Nôm của Nguyễn Trãi được đánh giá là đỉnh cao của dòng thơ quốc âm (tiếng Việt) thời trung đại. - Thơ văn Nguyễn Trãi xứng đáng là tập đại thành của năm thế kỉ văn học trung đại Việt Nam tính đến mốc thế kỉ XV.\n",
+  "parent_id": {
+    "$oid": "6606e2d057a2c8af9ad4b293"
+  },
+  "created_time": {
+    "$numberLong": "1711728748301"
+  },
+  "updated_time": {
+    "$numberLong": "1711728748301"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606e96057a2c8af9ad4b2e1"
+  },
+  "option": "3",
+  "content": "CÁC TÁC PHẨM CHÍNH \n\n- Văn chính luận: Quân trung từ mệnh tập,  Bình Ngô đại cáo, Băng Hồ di sự lục,Văn bia Vĩnh Lăng... Các bài viết luôn có mục đích và đối tượng hướng đến rõ ràng. Lí lẽ  chặt chẽ, thuyết phục, thể hiện tư tưởng nhân nghĩa yêu nước sâu sắc. Văn chính luận của Nguyễn Trãi “ mang sức mạnh của mười vạn hùng binh”\n- Thơ chữ Hán:  Ức Trai thi tập, Loạn hậu đáo Côn Sơn cảm tác, Chu trung ngẫu thành, Tự thán, Thần Phù khải khẩu,...\n- Thơ chữ Nôm: Các sáng tác chủ yếu tập hợp trong Quốc âm thi tập gồm 254 bài thơ. Với tư tưởng lấy dân làm gốc, Nguyễn Trãi bộc lộ tấm lòng ưu tư sâu sắc với đất nước: Bu¬i một tấc lòng ưu ái cũ/ đêm ngày cuồn cuộn nước triều đông”.  Qua tập thơ ta thấy triết lí sống giản dị mà sâu  sắc, giàu trải nghiệm về cuộc đời, thể hiện nhân cách cứng cỏi, trong sáng, không màng danh lợi. Tình yêu thiên nhiên tha thiết cũng là một mảng lớn trong thơ chữ Nôm Nguyễn Trãi.\n",
+  "parent_id": {
+    "$oid": "6606e2d057a2c8af9ad4b293"
+  },
+  "created_time": {
+    "$numberLong": "1711728992037"
+  },
+  "updated_time": {
+    "$numberLong": "1711728992037"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606eaee57a2c8af9ad4b30d"
+  },
+  "option": "1",
+  "content": "TIỀN ĐỀ LÝ LUẬN\n\n* Tư tưởng nhân nghĩa\n•\t'Nhân nghĩa' là phạm trù tư tưởng thuộc học thuyết Nho giáo chỉ mối quan hệ giữa người với người trên nền tảng tình thương và đạo lí.\n•\t'Nhân nghĩa' theo quan điểm của Nguyễn Trãi.\n•\tKế thừa tư tưởng của Nho giáo: 'yên dân' - cải thiện đời sống nhân dân yên ổn, hạnh phúc.\n•\tCụ thể hóa với nội dung mới đó là trừ bạo - vì nhân dân mà tiêu diệt tàn bạo, xâm lược\n\n→ Với ý nghĩa tiến bộ, mới mẻ Nguyễn Trãi đã bóc trần luận điệu xảo trá của giặc Minh đồng thời phân biệt rõ ràng ta chính nghĩa, địch phi nghĩa.\n→ Tạo nền tảng vững chắc cho cuộc khởi nghĩa Lam Sơn - cuộc khởi nghĩa của nhân dân, vì đời sống của nhân dân mà tiêu diệt tàn bạo.\n\n* Chân lý về độc lập dân tộc\n•\tNguyễn Trãi đã khẳng định tư cách độc lập của nước Đại Việt bằng một loạt các dẫn chứng: Nền văn hiến lâu đời, cương vực lãnh thổ riêng biệt, văn hóa Bắc Nam phong phú, mang dấu ấn đậm đà bản sắc dân tộc, lịch sử ngàn năm qua các triều đại Triệu, Đinh, Lý, Trần, hào kiệt thời nào cũng có.\n•\tCác từ ngữ 'từ trước, đã lâu, vốn xưng, đã chia' đã khẳng định sự tồn tại hiển nhiên của Đại Việt.\n•\tThái độ của tác giả:\n•\tĐặc các triều đại của Đại Việt ngang hàng với các triều đại của Trung Hoa.\n•\tGọi các vị vua Đại Việt là 'đế': trước nay hoàng đế phương Bắc chỉ xem vua nước Việt là Vương.\n•\tSử dụng phép liệt kê, dẫn chứng những kết cục không hề tốt đẹp của kẻ chống lại chân lý: Lưu Cung, Triệu Tiết, Toa Đô,...\n",
+  "parent_id": {
+    "$oid": "6606e4e457a2c8af9ad4b297"
+  },
+  "created_time": {
+    "$numberLong": "1711729390399"
+  },
+  "updated_time": {
+    "$numberLong": "1711729390399"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606eb8057a2c8af9ad4b30f"
+  },
+  "option": "2",
+  "content": "SOI CHIẾU LÝ LUẬN VÀO THỰC TIỄN\n\n* Tội ác của giặc Minh\n•\tTội ác xâm lược: Từ 'nhân, thừa cơ' cho thấy sự cơ hội, xảo quyệt của giặc Minh, chúng mượn chiêu bài 'phù Trần diệt Hồ' để gây nội chiến nước ta.\n•\tTội ác với nhân dân:\n•\tKhủng bố, sát hại người dân vô tội: Nướng dân đen, vùi con đỏ\n•\tBóc lột bằng thuế khóa vô cùng nặng nề, vơ vét tài nguyên, sản vật nước ta.\n•\tTàn phá môi trường, tiêu diệt sự sống\n•\tBóc lột sức lao động, phá hoại sản xuất\n\n→ Sử dụng biện pháp liệt kê để tố cáo những tội ác man dợ của giặc.\n→ Gợi hình ảnh đáng thương, tội nghiệp, khổ đau của nhân dân\n→ Nỗi đau xót xa, đau đớn, thương cảm đối với nhân dân, sự căm phẫn đối với kẻ thù của tác giả.\n\n* Lòng căm thù giặc của nhân dân\n•\tHình ảnh phóng đại 'trúc Nam Sơn không ghi hết tội, nước Đông Hải không rửa sạch mùi' lấy cái vô cùng của tự nhiên để nói về tội ác man dợ của giặc Minh.\n•\tCâu hỏi tu từ 'lẽ nào...chịu được': Tội ác không thể tha thứ của giặc.\n-> Thái độ căm phẫn, uất ức đến tột cùng của dân tộc ta.\n\n⇒ Đoạn văn là bảo cáo trạng đanh thép về tội ác man dợ của giặc Minh\n",
+  "parent_id": {
+    "$oid": "6606e4e457a2c8af9ad4b297"
+  },
+  "created_time": {
+    "$numberLong": "1711729536384"
+  },
+  "updated_time": {
+    "$numberLong": "1711729536384"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606ec2057a2c8af9ad4b311"
+  },
+  "option": "3",
+  "content": "DIỄN BIẾN CUỘC KHỞI NGHĨA LAM SƠN\n\n* Hình ảnh người anh hùng Lê Lợi\n•\tNguồn gốc xuất thân: là người nông dân áo vải 'chốn hoang dã nương minh'\n•\tLựa chọn căn cứ khởi nghĩa: 'Núi Lam Sơn dấy nghĩa'.\n•\tCó lòng căm thù giặc sâu sắc đến tột độ: 'Ngẫm thù lớn há đội trời chung, căm giặc nước thề không cùng sống...'\n•\tCó lý tưởng, ước mơ lớn lao, biết trọng dụng người tài: 'Tấm lòng cứu nước...dành phía tả'.\n•\tCó ý chí quyết tâm thực hiện lý tưởng lớn: 'Đau lòng nhức óc...nếm mật nằm gai...suy xét đã tính'.\n→ Lê Lợi hiện lên với hình ảnh là con người bình dị đời thường, vừa là anh hùng khởi nghĩa. Hình tượng Lê Lợi cũng là linh hồn của cuộc khởi nghĩa Lam Sơn, Nguyễn Trãi thể hiện tính chất nhân dân của cuộc khởi nghĩa.\n\n* Cuộc khởi nghĩa Lam Sơn\n•\tGiai đoạn đầu của cuộc khởi nghĩa\n•\tKhó khăn cả về quân lực và vật lực: lương hết mấy tuần, quân không một đội\n•\tTinh thân của quân và dân: Quyết chí, đồng lòng, đoàn kết\n-> Giai đoạn đầy khó khăn, thử thách, trông gai nhưng nhờ sự lạc quan, đồng lòng, đoàn kết mà đã giúp cuộc khởi nghĩa Lam Sơn vượt qua mọi khó khăn.\n\n•\tGiai đoạn phản công và giành thắng lợi\n•\tNhững chiến thắng ban đầu: Trận Bạch Đằng, miền Trà Lân tạo thanh thế cho nghĩa quân và trở thành nỗi khiếp sợ của kẻ thù 'sấm vang chớp giật, trúc chẻ tro bay'.\n•\tNghĩa quân liên tiếp giành nhiều thắng lợi to lớn, tiêu giệt giặc ở những thành mà chúng chiếm đống 'Trần Trí, Sơn Thọ...thoát thân' và tiêu diệt quân chi viện của giặc 'Đinh Mùi...tự vẫn'.\n→ Sử dụng biện pháp liệt kê đã tái hiện tại không khí chiến đấu sục sôi với những chiến thắng vang danh của quân ta cũng như sự thất bại ô nhục của địch.\n\n•\tSự thất bại nhục nhã của giặc Minh\n•\tNghệ thuật cường điệu, phóng đại cực tả sự thiệt hại, tổn thất to lớn của quân thù. Đó là những thất bại nhục nhã, ê chề 'thây chất đầy nội, nhơ để ngàn năm, bêu đầu, bỏ mạng...'\n•\tThất bại thảm hại, khốn đốn, cửi áo giáp xin hàng 'Thượng thư Hoàng Phúc...xin cứu mạng'\n•\tTướng giặc tham sống sợ chết xin hàng.\n•\tKhí thế vang danh và cách ứng xử của quân dân ta\n•\tLối nói cường điệu hóa, phóng đại: 'Gươm màu đá đá nũi cũng mòn, voi uống nước nước sông phải cạn,...' ca ngợi khí thế hào sảng, ngút trời của quân ta.\n•\tThực thi chính sách nhân nghĩa 'Thần vũ chẳng giết hại...nghỉ sức'. Đây là cách ứng xử vừa nhân đạo vừa khôn khéo, nó vừa khiến ta thấy được tính chất chính nghĩa của nghĩa quân vừa là sự chuẩn bị cần thiết cho chính sách ngoại giao sau này.\n→ Nghệ thuật đối lập đã thể hiện rõ những nét đối cực trong cuộc chiến giữa ta và địch, từ tính chất cuộc chiến cho đến khí thế, sức mạnh, những chiến công và cách ứng xử.\n",
+  "parent_id": {
+    "$oid": "6606e4e457a2c8af9ad4b297"
+  },
+  "created_time": {
+    "$numberLong": "1711729696028"
+  },
+  "updated_time": {
+    "$numberLong": "1711729696028"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606ec8957a2c8af9ad4b313"
+  },
+  "option": "4",
+  "content": "NIỀM TIN, Ý CHÍ\n\n•\tLối viết trang trọng, hào sảng cho thấy niềm tin và những suy tư lắng sâu của tác giả.\n•\tSử dụng những hình ảnh về tương lai đất nước như 'xã tắc từ đây vững bền, giang sơn từ đây đổi mới, thái bình vững chắc', các hình ảnh của vũ trụ 'kiền không, nhật nguyệt, ngàn thu sạch làu'.\n\n→ Đất nước, vũ trụ, tự nhiên đang đi đúng quỹ đạo tươi sáng, tốt đẹp hơn.\n→ Đây không chỉ là lời tuyên bố kết thúc còn là niềm tin tưởng, lạc quan về sự nghiệp xây dựng đất nước.\n",
+  "parent_id": {
+    "$oid": "6606e4e457a2c8af9ad4b297"
+  },
+  "created_time": {
+    "$numberLong": "1711729801640"
+  },
+  "updated_time": {
+    "$numberLong": "1711729801640"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606ecb757a2c8af9ad4b315"
+  },
+  "option": "5",
+  "content": "NGHỆ THUẬT\n\n•\tSử dụng sáng tạo thành công thể cáo.\n•\tKết hợp hài hòa giữa yếu tố chính trị và yếu tố văn chương.\n•\tSử dụng các biện pháp liệt kê, phóng đại, đối lập,...\n",
+  "parent_id": {
+    "$oid": "6606e4e457a2c8af9ad4b297"
+  },
+  "created_time": {
+    "$numberLong": "1711729847881"
+  },
+  "updated_time": {
+    "$numberLong": "1711729847881"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6608bbb8a388574b10be1719"
+  },
+  "option": "1",
+  "content": "6 câu thơ đầu: Bức tranh thiên nhiên và cuộc sống\n\n– Câu 1: Hoàn cảnh đặc biệt của tác giả\n\n– Bức tranh thiên nhiên, cảnh vật\n•\tHình ảnh đặc trưng của thiên nhiên, cảnh vật lúc vào hè: hòe lục, thạch lựu hiên, hồng liên trì\n•\tSử dụng động từ mạnh gợi nên sức sống căng tràn của cảnh vật: đùn đùn, phun, tiễn\n\n– Bức tranh cuộc sống: tác giả đã sử dụng thính giác để cảm nhận cuộc sống, dùng âm thanh để tái hiện lại sinh động và chân thực bức tranh cuộc sống\n•\tLao xao chợ cá: âm thanh gần gũi, gợi nên sự sống của con người\n•\tDắng dỏi cầm ve: âm thanh đặc trưng của mùa hè, gợi nên sự rộn rã, tươi vui\n\n=> Bằng sự cảm nhận tinh tế của tất cả các giác quan, sự tinh tế trong cách cảm nhận và tình yêu thiên nhiên sâu sắc, tác giả đã vẽ nên bức tranh thiên nhiên và cuộc sống ngày hè với tất cả màu sắc, đường nét, âm thanh, tất cả luôn căng tràn sự sống.\n",
+  "parent_id": {
+    "$oid": "6606e5c157a2c8af9ad4b2ad"
+  },
+  "created_time": {
+    "$numberLong": "1711848376702"
+  },
+  "updated_time": {
+    "$numberLong": "1711848376702"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6608bc02a388574b10be171b"
+  },
+  "option": "2",
+  "content": "2 câu thơ còn lại: Vẻ đẹp tâm hồn của nhà thơ\n\n•\tÔng ước mình có cây đàn của vua Ngu Thuấn để cầu mong cho “dân giàu đủ”.\n•\tVới việc mượn điển tích cây đàn của vua Ngu Thuấn để tự răn mình đã cho chúng ta thấy chí hướng cao cả: luôn khao khát đem tài trí để thực hành tư tưởng nhân nghĩa yêu nước thương dân.\n",
+  "parent_id": {
+    "$oid": "6606e5c157a2c8af9ad4b2ad"
+  },
+  "created_time": {
+    "$numberLong": "1711848450040"
+  },
+  "updated_time": {
+    "$numberLong": "1711848450040"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6608bcd1a388574b10be1731"
+  },
+  "option": "1",
+  "content": "Khung cảnh núi Dục Thuý (6 câu thơ đầu)\n\na) Hai câu đầu: Giới thiệu chung về cảnh vật trong 'mối quan hệ' với tác giả\n- Bức tranh sơn thuỷ tuyệt vời về núi Dục Thuý, được vẽ bằng bút pháp vô cùng điêu luyện.\n- Câu 1 đã nói “non tiên” giữa cửa biển, câu 4 nói rõ thêm núi Dục Thuý 'như cảnh tiên rơi xuống cõi trần gian ” (tiên cảnh truỵ trần gian)\n\n→ Hai hình ảnh “tiên san” và “tiên cảnh” hô ứng nhau, bổ trợ nhau. cảm xúc mở rộng, phát triển nhằm ca ngợi Dục Thuý sơn là một thắng cảnh, đẹp kì lạ, hiếm có trên đất nước ta.\n\nb) Bốn câu sau: Bức tranh sơn thủy hữu tình\n- Bức tranh toàn cảnh núi Dục Thuý được thể hiện rõ nét trong hai câu 3 - 4.\n- Núi Dục Thuý được tác giả ví như đoá sen nổi trên mặt nước, hình ảnh và bút pháp mới lạ, độc đáo. Trong nguyên văn, tác giả không sử dụng từ ngữ biểu thị sự so sánh mà đồng nhất trực tiếp núi Dục Thuý với đoá sen. Hình ảnh đoá sen có ý nghĩa biểu tượng, gợi ý niệm thoát tục, như là cõi tiên rơi xuống trần gian.\n- Ngôn từ được sử dụng chính xác, tạo ấn tượng: Trong nguyên văn, từ 'phù' có nghĩa là 'nổi', nhưng lay động tại chỗ (khác với 'phiếm' cũng là nổi nhưng 'trôi dạt'); từ 'truỵ' có nghĩa là 'rơi, rớt từ trên cao xuống', thể hiện sự sống động trong miêu tả.\n- Dấu ấn riêng của tâm hồn Nguyễn Trãi thể hiện rõ nhất qua những liên tưởng xuất hiện ở cái nhìn cận cảnh (hai câu 5 -  6).\n- Trâm ngọc xanh và mái tóc biếc gợi hình ảnh trẻ trung, trong sáng, trữ tình, nên thơ, giúp liên tưởng đến hình ảnh người con gái. Vẻ đẹp của thiên nhiên được so sánh với vẻ đẹp của con người; lấy nét đẹp của người con gái để hình dung bóng núi trên sóng biếc. Sự liên tưởng này rất hiện đại, đặc biệt, hiếm thấy trong thơ cổ. Thơ cổ thường lấy chuẩn mực vẻ đẹp tự nhiên để so sánh với con người. Sự liên tưởng và bút pháp mới lạ này cho thấy tâm hồn trong sáng, nhạy cảm, tinh tế của nhà thơ.\n",
+  "parent_id": {
+    "$oid": "6606e63257a2c8af9ad4b2af"
+  },
+  "created_time": {
+    "$numberLong": "1711848657838"
+  },
+  "updated_time": {
+    "$numberLong": "1711848657838"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6608bd12a388574b10be1733"
+  },
+  "option": "2",
+  "content": "Cảm hoài của Nguyễn Trãi (2 câu thơ sau)\n\n- Hai câu kết bài thơ này, cũng giống như các bài thơ khác cùng chủ đề của Nguyễn Trãi, lại thường là sự bộc lộ những suy tư về con người, về lịch sử, về dân tộc. Ý thơ thể hiện rõ sự hoài niệm, nhớ tiếc. Điều này cho thấy tâm hồn hướng nội, sâu sắc của Nguyễn Trãi.\n- Dục Thúy Sơn” là bài thơ tả cảnh ngụ tình đặc sắc. Bài thơ ngũ ngôn bát cú bằng chữ Hán. Hình tượng thơ mĩ lệ, cảnh sắc đượm vẻ thần tiên. Trong phần luận, 4 hình ảnh ẩn dụ sóng nhau, đối nhau, hình ảnh này làm đẹp thêm hình ảnh kia, thể hiện cách cảm, cách tả của nhà thơ mang tâm hồn thơ mộng, tài hoa. Ức Trai, trong cảm nhận cái đẹp của thiên nhiên, sông núi, ngòi bút tài hoa của ông rất tinh tế và nhạy cảm trong gợi tả và biểu cảm.\n",
+  "parent_id": {
+    "$oid": "6606e63257a2c8af9ad4b2af"
+  },
+  "created_time": {
+    "$numberLong": "1711848722089"
+  },
+  "updated_time": {
+    "$numberLong": "1711848722089"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6608bd4ca388574b10be1735"
+  },
+  "option": "3",
+  "content": "Đặc sắc nội dung và nghệ thuật\n\na) Nội dung\n- Bài thơ miêu tả vẻ đẹp của núi Dục Thúy thần tiên thoát tục.\n- Xen vào đó là nỗi niềm cảm hoài về người xưa của tác giả Nguyễn Trãi.\n\nb) Nghệ thuật\n- Tác giả sử dụng thể thơ Đường luật ngũ ngôn bát cú\n- Sử dụng hình ảnh ẩn dụ, so sánh, đối nhau thể hiện vẻ đẹp của núi Dục Thúy.\n",
+  "parent_id": {
+    "$oid": "6606e63257a2c8af9ad4b2af"
+  },
+  "created_time": {
+    "$numberLong": "1711848780565"
+  },
+  "updated_time": {
+    "$numberLong": "1711848780565"
+  },
+  "__v": 0
+}]
